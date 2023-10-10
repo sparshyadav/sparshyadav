@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sparsh Yadav</h1>
 <h3 align="center">A passionate frontend developer from India, learning and working on various technologies.</h3>
 
-- 🌱 I’m currently learning **React**
+                                     - 🌱 I’m currently learning **React**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
