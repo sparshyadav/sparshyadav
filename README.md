@@ -3,7 +3,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://leetcode.com/sparshyadav/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="sparshyadv" height="30" width="40" /></a>
+<a href="https://leetcode.com/sparshyadav/" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="sparshyadv" height="30" width="40" /></a>
 <a href="https://www.codingninjas.com/studio/profile/sparshydv" target="blank"><img align="center" src="https://cdn-images-1.medium.com/max/1200/1*l2EOZqT13tqJGSosthcaNQ.jpeg" alt="sparshyadv" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sparshyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sparshyadav" height="30" width="40" /></a>
 <!-- <a href="https://fb.com/sparshyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sparshyadav" height="30" width="40" /></a> -->
