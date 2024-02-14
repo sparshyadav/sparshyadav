@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sparsh Yadav</h1>
 <h3 align="center">A passionate frontend developer from India, learning and working on various technologies.</h3>
 
-<p align="left"> <a href="https://twitter.com/sparshyadv" target="blank"><img src="https://img.shields.io/twitter/follow/sparshyadv?logo=twitter&style=for-the-badge" alt="sparshyadv" /></a> </p>
 
 - 🌱 I’m currently learning **React, Express, MongoDB**
 
