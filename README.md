@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sparsh Yadav</h1>
-<h3 align="center">A passionate frontend developer from India, learning and working on various technologies.</h3>
+<h3 align="center">A passionate Full Stack Developer from India, learning and working on various technologies.</h3>
 
 
-- 🌱 I’m currently learning **React, Express, MongoDB**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Tailwind, JavaScript**
+- 💬 Ask me about **JavaScript, NodeJS, ExpressJS**
 
 - 📫 How to reach me **sparshyadavmrt@gmail.com**
 
